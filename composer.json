@@ -65,9 +65,9 @@
         ]
     },
     "repositories": {
-        "victorycto/sandboxjwc": {
-            "type": "path",
-            "url": "/home/vagrant/code/packages/victorycto/sandboxjwc"
+        "testtask4victorycto/laravel-package-image-uploader": {
+            "type": "vcs",
+            "url": "https://github.com/ivanhomeniuk/laravel-package-image-uploader"
         }
     }
 }
