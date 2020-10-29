@@ -12,7 +12,7 @@
         "aws/aws-sdk-php-laravel": "^3.4",
         "cviebrock/laravel-elasticsearch": "^4.1",
         "fideloper/proxy": "^4.0",
-        "jeroen-g/laravel-packager": "^2.3",
+        "jeroen-g/laravel-packager": "^2.6",
         "laravel/framework": "^6.0",
         "laravel/homestead": "^9.3",
         "laravel/tinker": "^1.0",
